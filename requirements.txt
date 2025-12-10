@@ -1,13 +1,7 @@
-numpy==1.26.4
-
-# OpenCV – single headless contrib wheel, no duplicates
+streamlit==1.52.1
 opencv-contrib-python-headless==4.9.0.80
-
-# MediaPipe version you used
+numpy==1.26.4
 mediapipe==0.10.14
-
-# Streamlit
-streamlit>=1.31.0,<2.0.0
-
 matplotlib==3.8.4
+
 
