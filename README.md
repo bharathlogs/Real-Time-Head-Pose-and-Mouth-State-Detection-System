@@ -1,4 +1,4 @@
-Real-Time Head Pose, Eye State, and Mouth State Detection
+Real-Time Head Pose and Mouth State Detection
 
 This project performs real-time facial analysis using MediaPipe FaceMesh and OpenCV.
 It detects:
